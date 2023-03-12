@@ -5,7 +5,7 @@ Here's the Iconic theme I created.  I tried to give it a modern twist. Enjoy!
 Click the link below to see all my themes.
 https://github.com/dhrandy/dhrandy-RG35XX-Themes
 
-
+![ezgif-2-a565fa5ce4-2](https://user-images.githubusercontent.com/6290176/224518783-dc29b80b-eecd-4002-b69b-56eb6628961c.gif)
 
 ## Installation - *This only works with Garlic OS
 *Only Works with Garlic OS 1.2.4
